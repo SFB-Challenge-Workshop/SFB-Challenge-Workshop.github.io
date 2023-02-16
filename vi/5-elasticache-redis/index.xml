@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon ElastiCache on Thực hành Đưa dữ liệu của bạn lên AWS</title>
+    <link>/vi/5-elasticache-redis/</link>
+    <description>Recent content in Amazon ElastiCache on Thực hành Đưa dữ liệu của bạn lên AWS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Jan 2022 00:13:10 +0700</lastBuildDate><atom:link href="/vi/5-elasticache-redis/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

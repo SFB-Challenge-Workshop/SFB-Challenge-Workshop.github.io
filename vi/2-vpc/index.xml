@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VPC on Thực hành Đưa dữ liệu của bạn lên AWS</title>
+    <link>/vi/2-vpc/</link>
+    <description>Recent content in VPC on Thực hành Đưa dữ liệu của bạn lên AWS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Jan 2022 00:13:10 +0700</lastBuildDate><atom:link href="/vi/2-vpc/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
